@@ -38,4 +38,12 @@ TBD
 ### Python
 TBD
 
-Please feel free to have my code maybe help you if you are trying to learn coding as well! 
+## About Me
+ I am currently a student at the University of Florida working on my Bachelor of Science In EE. I have listed likns below so you can contact me or somply get to know me better!
+
+Linkedin: https://www.linkedin.com/in/sidharth-balaji-9b2a91330/
+Gmail: balaji.sidharth05@gmail.com
+
+##
+
+Please feel free to have my code maybe help you if you are trying to learn coding as well!
