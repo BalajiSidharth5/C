@@ -4,7 +4,7 @@
 
 int main(int argc, char **argv)
 {
-	int p;
+    int p;
     int i;
     int primes[50];
     int primeIndex = 2;
