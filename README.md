@@ -1,4 +1,4 @@
-# My-Coding-Journey
+# C Programming
 
 This repository is devoted to document the codes I write as I learn how to code. I use these tools while writing and testing my code: Git, VS Code, GCC, GDB. I have listed what I am working on below.
 
